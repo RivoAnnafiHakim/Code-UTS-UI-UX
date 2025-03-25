@@ -1,0 +1,1174 @@
+.tokopedia {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.tokopedia .div {
+  background-color: #ffffff;
+  width: 1832px;
+  height: 1024px;
+  position: relative;
+}
+
+.tokopedia .topnav-tokopedia {
+  position: absolute;
+  width: 1832px;
+  height: 44px;
+  top: 0;
+  left: 0;
+  background-color: #dddddd;
+  overflow: hidden;
+}
+
+.tokopedia .phone {
+  position: absolute;
+  width: 27px;
+  height: 37px;
+  top: 3px;
+  left: 25px;
+  object-fit: cover;
+}
+
+.tokopedia .gratis-ongkir-banyak {
+  position: absolute;
+  width: 480px;
+  height: 48px;
+  top: -4px;
+  left: 59px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper {
+  font-weight: 700;
+  letter-spacing: 0.12px;
+}
+
+.tokopedia .span {
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  letter-spacing: 0.12px;
+}
+
+.tokopedia .text-wrapper-2 {
+  font-weight: 700;
+  font-size: 25px;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .text-wrapper-3 {
+  position: absolute;
+  width: 168px;
+  height: 48px;
+  top: -4px;
+  left: 1112px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-4 {
+  position: absolute;
+  width: 152px;
+  height: 48px;
+  top: -4px;
+  left: 1294px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-5 {
+  position: absolute;
+  width: 152px;
+  height: 46px;
+  top: -4px;
+  left: 1453px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-6 {
+  position: absolute;
+  width: 152px;
+  height: 46px;
+  top: -4px;
+  left: 1680px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-7 {
+  position: absolute;
+  width: 61px;
+  height: 46px;
+  top: -4px;
+  left: 1609px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .content-tokopedia {
+  position: absolute;
+  width: 1832px;
+  height: 127px;
+  top: 44px;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e9e9e9;
+}
+
+.tokopedia .text-wrapper-8 {
+  position: absolute;
+  width: 103px;
+  height: 48px;
+  top: 25px;
+  left: 327px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0.75px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .tokped {
+  position: absolute;
+  width: 254px;
+  height: 56px;
+  top: 27px;
+  left: 34px;
+  object-fit: cover;
+}
+
+.tokopedia .overlap-group {
+  position: absolute;
+  width: 982px;
+  height: 106px;
+  top: 19px;
+  left: 444px;
+}
+
+.tokopedia .frame {
+  position: absolute;
+  width: 981px;
+  height: 63px;
+  top: 0;
+  left: 1px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #6d6565;
+}
+
+.tokopedia .text-wrapper-9 {
+  position: absolute;
+  width: 168px;
+  height: 48px;
+  top: 6px;
+  left: 69px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #6d6565;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .search {
+  position: absolute;
+  width: 38px;
+  height: 39px;
+  top: 12px;
+  left: 20px;
+}
+
+.tokopedia .text-wrapper-10 {
+  position: absolute;
+  width: 154px;
+  height: 48px;
+  top: 58px;
+  left: 0;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #6d6565;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-11 {
+  position: absolute;
+  width: 128px;
+  height: 48px;
+  top: 58px;
+  left: 166px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #6d6565;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-12 {
+  position: absolute;
+  width: 121px;
+  height: 48px;
+  top: 58px;
+  left: 302px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #6d6565;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-13 {
+  position: absolute;
+  width: 104px;
+  height: 48px;
+  top: 58px;
+  left: 430px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #6d6565;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-14 {
+  position: absolute;
+  width: 70px;
+  height: 48px;
+  top: 58px;
+  left: 543px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #6d6565;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-15 {
+  position: absolute;
+  width: 117px;
+  height: 48px;
+  top: 58px;
+  left: 627px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #6d6565;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .basket {
+  position: absolute;
+  width: 36px;
+  height: 35px;
+  top: 33px;
+  left: 1454px;
+  object-fit: cover;
+}
+
+.tokopedia .frame-2 {
+  position: absolute;
+  width: 2px;
+  height: 40px;
+  top: 31px;
+  left: 1522px;
+  background-color: #6d6565;
+}
+
+.tokopedia .div-wrapper {
+  position: absolute;
+  width: 109px;
+  height: 50px;
+  top: 26px;
+  left: 1560px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #28ba47;
+}
+
+.tokopedia .text-wrapper-16 {
+  position: absolute;
+  width: 61px;
+  height: 48px;
+  top: -1px;
+  left: 26px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #28ba47;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .frame-3 {
+  position: absolute;
+  width: 109px;
+  height: 50px;
+  top: 26px;
+  left: 1693px;
+  background-color: #28ba47;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #eeeeee;
+}
+
+.tokopedia .text-wrapper-17 {
+  position: absolute;
+  width: 60px;
+  height: 48px;
+  top: -1px;
+  left: 23px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .location {
+  position: absolute;
+  width: 35px;
+  height: 40px;
+  top: 82px;
+  left: 1504px;
+}
+
+.tokopedia .overlap {
+  position: absolute;
+  width: 249px;
+  height: 48px;
+  top: 77px;
+  left: 1550px;
+}
+
+.tokopedia .dikirim-ke-jakarta {
+  position: absolute;
+  width: 219px;
+  height: 48px;
+  top: 0;
+  left: 0;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-18 {
+  font-weight: 300;
+  letter-spacing: 0.12px;
+}
+
+.tokopedia .text-wrapper-19 {
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0.12px;
+}
+
+.tokopedia .text-wrapper-20 {
+  position: absolute;
+  width: 24px;
+  height: 37px;
+  top: 0;
+  left: 219px;
+  transform: rotate(-90deg);
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0.75px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .content-tokopedia-2 {
+  position: absolute;
+  width: 1832px;
+  height: 853px;
+  top: 171px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.tokopedia .element {
+  width: 579px;
+  height: 513px;
+  top: 93px;
+  position: absolute;
+  left: 51px;
+  object-fit: cover;
+}
+
+.tokopedia .img {
+  width: 120px;
+  height: 120px;
+  top: 634px;
+  position: absolute;
+  left: 51px;
+  object-fit: cover;
+}
+
+.tokopedia .element-2 {
+  position: absolute;
+  width: 142px;
+  height: 120px;
+  top: 634px;
+  left: 171px;
+  object-fit: cover;
+}
+
+.tokopedia .element-3 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 633px;
+  left: 321px;
+  object-fit: cover;
+}
+
+.tokopedia .overlap-2 {
+  position: absolute;
+  width: 230px;
+  height: 120px;
+  top: 636px;
+  left: 449px;
+}
+
+.tokopedia .element-4 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.tokopedia .element-5 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 0;
+  left: 110px;
+  object-fit: cover;
+}
+
+.tokopedia .home-komputer-laptop {
+  position: absolute;
+  width: 1017px;
+  height: 48px;
+  top: 19px;
+  left: 233px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-21 {
+  font-weight: 300;
+  color: #28ba47;
+  letter-spacing: 0.12px;
+}
+
+.tokopedia .text-wrapper-22 {
+  font-weight: 300;
+  color: #eeeeee;
+  letter-spacing: 0.12px;
+}
+
+.tokopedia .text-wrapper-23 {
+  font-weight: 300;
+  color: #000000;
+  letter-spacing: 0.12px;
+}
+
+.tokopedia .text-wrapper-24 {
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  letter-spacing: 0.12px;
+}
+
+.tokopedia .overlap-3 {
+  position: absolute;
+  width: 1126px;
+  height: 355px;
+  top: 76px;
+  left: 646px;
+}
+
+.tokopedia .overlap-4 {
+  position: absolute;
+  width: 1126px;
+  height: 330px;
+  top: 0;
+  left: 0;
+}
+
+.tokopedia .SPECIAL-BUNDLING {
+  position: absolute;
+  width: 674px;
+  top: 0;
+  left: 0;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 27px;
+  letter-spacing: 0.81px;
+  line-height: 49px;
+}
+
+.tokopedia .frame-4 {
+  position: absolute;
+  width: 470px;
+  height: 264px;
+  top: 66px;
+  left: 656px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #6d6565;
+}
+
+.tokopedia .text-wrapper-25 {
+  position: absolute;
+  width: 310px;
+  height: 48px;
+  top: 7px;
+  left: 19px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 27px;
+  letter-spacing: 0.81px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .stok-habis {
+  position: absolute;
+  width: 151px;
+  height: 48px;
+  top: -70px;
+  left: 200px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 27px;
+  letter-spacing: 0.81px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-26 {
+  color: #000000;
+  letter-spacing: 0.22px;
+}
+
+.tokopedia .text-wrapper-27 {
+  color: #d00000;
+  letter-spacing: 0.22px;
+}
+
+.tokopedia .frame-5 {
+  position: absolute;
+  width: 192px;
+  height: 58px;
+  top: 75px;
+  left: 20px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #6d6565;
+}
+
+.tokopedia .plus-math {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 14px;
+  left: 147px;
+}
+
+.tokopedia .frame-6 {
+  position: absolute;
+  width: 25px;
+  height: 3px;
+  top: 29px;
+  left: 18px;
+  background-color: #bdafaf;
+}
+
+.tokopedia .text-wrapper-28 {
+  position: absolute;
+  width: 33px;
+  height: 48px;
+  top: 5px;
+  left: 87px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #afafaf;
+  font-size: 40px;
+  letter-spacing: 1.20px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .frame-7 {
+  position: absolute;
+  width: 25px;
+  height: 3px;
+  top: 230px;
+  left: 136px;
+  background-color: #bdafaf;
+  transform: rotate(-90deg);
+}
+
+.tokopedia .frame-8 {
+  position: absolute;
+  width: 25px;
+  height: 3px;
+  top: 230px;
+  left: 307px;
+  background-color: #bdafaf;
+  transform: rotate(-90deg);
+}
+
+.tokopedia .text-wrapper-29 {
+  position: absolute;
+  width: 148px;
+  height: 48px;
+  top: 144px;
+  left: 19px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: #6d6565;
+  font-size: 23px;
+  letter-spacing: 0.69px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .communication {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 217px;
+  left: 29px;
+}
+
+.tokopedia .favorite {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 217px;
+  left: 164px;
+}
+
+.tokopedia .share {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 216px;
+  left: 344px;
+}
+
+.tokopedia .text-wrapper-30 {
+  position: absolute;
+  width: 55px;
+  height: 48px;
+  top: 206px;
+  left: 72px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-31 {
+  position: absolute;
+  width: 84px;
+  height: 48px;
+  top: 206px;
+  left: 205px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-32 {
+  position: absolute;
+  width: 60px;
+  height: 48px;
+  top: 206px;
+  left: 386px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.60px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .terjual {
+  position: absolute;
+  width: 114px;
+  height: 53px;
+  top: 94px;
+  left: 0;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Medium", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0.75px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-33 {
+  font-weight: 500;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .text-wrapper-34 {
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .text-wrapper-35 {
+  font-family: "Mukta-ExtraBold", Helvetica;
+  font-weight: 800;
+  font-size: 30px;
+  letter-spacing: 0.27px;
+}
+
+.tokopedia .star {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 107px;
+  left: 124px;
+  object-fit: cover;
+}
+
+.tokopedia .element-rating {
+  position: absolute;
+  width: 148px;
+  height: 48px;
+  top: 100px;
+  left: 157px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0.75px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-36 {
+  color: #000000;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .text-wrapper-37 {
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .text-wrapper-38 {
+  color: #6d6565;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .text-wrapper-39 {
+  position: absolute;
+  width: 358px;
+  height: 49px;
+  top: 165px;
+  left: 0;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 55px;
+  letter-spacing: 1.65px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .frame-9 {
+  position: absolute;
+  width: 530px;
+  height: 1px;
+  top: 227px;
+  left: 1px;
+  background-color: #6d6565;
+}
+
+.tokopedia .pilih-warna-warna {
+  position: absolute;
+  width: 260px;
+  height: 48px;
+  top: 248px;
+  left: 16px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0.75px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-40 {
+  font-weight: 700;
+  color: #000000;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .text-wrapper-41 {
+  font-family: "Mukta-Light", Helvetica;
+  font-weight: 300;
+  color: #6d6565;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .frame-10 {
+  position: absolute;
+  width: 160px;
+  height: 50px;
+  top: 305px;
+  left: 15px;
+  background-color: #f1f1f1;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.tokopedia .text-wrapper-42 {
+  position: absolute;
+  width: 119px;
+  height: 48px;
+  top: -1px;
+  left: 24px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #6d6565;
+  font-size: 23px;
+  letter-spacing: 0.69px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .frame-11 {
+  position: absolute;
+  width: 111px;
+  height: 50px;
+  top: 305px;
+  left: 191px;
+  background-color: #f1f1f1;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.tokopedia .text-wrapper-43 {
+  position: absolute;
+  width: 70px;
+  height: 48px;
+  top: -1px;
+  left: 26px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #6d6565;
+  font-size: 23px;
+  letter-spacing: 0.69px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .frame-12 {
+  position: absolute;
+  width: 530px;
+  height: 1px;
+  top: 583px;
+  left: 647px;
+  background-color: #6d6565;
+}
+
+.tokopedia .overlap-5 {
+  position: absolute;
+  width: 530px;
+  height: 3px;
+  top: 633px;
+  left: 647px;
+}
+
+.tokopedia .frame-13 {
+  position: absolute;
+  width: 530px;
+  height: 1px;
+  top: 2px;
+  left: 0;
+  background-color: #6d6565;
+}
+
+.tokopedia .frame-14 {
+  position: absolute;
+  width: 100px;
+  height: 3px;
+  top: 0;
+  left: 73px;
+  background-color: #28ba47;
+}
+
+.tokopedia .kondisi-baru-min {
+  position: absolute;
+  width: 305px;
+  top: 642px;
+  left: 713px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0.75px;
+  line-height: 49px;
+}
+
+.tokopedia .text-wrapper-44 {
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #050505;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .text-wrapper-45 {
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .text-wrapper-46 {
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #28ba47;
+  letter-spacing: 0.19px;
+}
+
+.tokopedia .pilih-kapasitas {
+  position: absolute;
+  width: 519px;
+  height: 48px;
+  top: 459px;
+  left: 662px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0.75px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .frame-15 {
+  position: absolute;
+  width: 126px;
+  height: 50px;
+  top: 508px;
+  left: 661px;
+  background-color: #f1f1f1;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.tokopedia .text-wrapper-47 {
+  position: absolute;
+  width: 119px;
+  height: 48px;
+  top: -1px;
+  left: 30px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #6d6565;
+  font-size: 23px;
+  letter-spacing: 0.69px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .frame-16 {
+  position: absolute;
+  width: 126px;
+  height: 50px;
+  top: 508px;
+  left: 804px;
+  background-color: #f1f1f1;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.tokopedia .text-wrapper-48 {
+  position: absolute;
+  width: 73px;
+  height: 48px;
+  top: -1px;
+  left: 30px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #6d6565;
+  font-size: 23px;
+  letter-spacing: 0.69px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-49 {
+  position: absolute;
+  width: 68px;
+  height: 48px;
+  top: 584px;
+  left: 738px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: #28ba47;
+  font-size: 23px;
+  letter-spacing: 0.69px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.tokopedia .text-wrapper-50 {
+  position: absolute;
+  width: 148px;
+  height: 48px;
+  top: 584px;
+  left: 900px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Mukta-Bold", Helvetica;
+  font-weight: 700;
+  color: #6d6565;
+  font-size: 23px;
+  letter-spacing: 0.69px;
+  line-height: 49px;
+  white-space: nowrap;
+}
